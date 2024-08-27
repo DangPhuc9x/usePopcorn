@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Main function:
-- Use useState, useEffect, useRef, custom hooks to control each variable\
+- Use useState, useEffect, useRef, custom hooks to control each variable.\
 - Use OMDb API to access / control free movie's database
 
 Note:
